@@ -1,0 +1,36 @@
+/**
+* Nav
+*/
+
+.navbar {
+    text-transform: uppercase;
+}
+
+    .navbar .is-dark {
+        background: #444;
+    }
+
+.navbar-brand{
+    position: relative;
+    left: 1%;
+    align-items:center;
+}
+
+/**
+* Footer 
+*/
+
+.footer a {
+    margin-bottom: 15px;
+    display: inline-block;
+    color: #444;
+}
+
+/**
+* Bulma overrides
+*/
+
+.input, .button {
+    border-radius: 0;
+}
+
